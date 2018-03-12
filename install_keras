@@ -1,0 +1,4 @@
+cd tensorflow3
+source ./bin/activate
+
+sudo pip install keras
